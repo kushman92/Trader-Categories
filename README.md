@@ -2,28 +2,18 @@
 # (#) - Needs to be added
 ? (?) Unsure of item
 
-<Trader> Base-Building Trader
 	
-	<Category> Military Gear | Large Tents
+	<Category> Military Gear | Tents
 	
-		#CZ_LargeTent_Ammo, 				*, 		5000, 		500
-		#CZ_LargeTent_Cash, 				*, 		5000, 		500
-		#CZ_LargeTent_Clothing, 			*, 		5000, 		500
-		#CZ_LargeTent_Cocaine, 				*, 		5000, 		500
-		#CZ_LargeTent_Desert, 				*, 		5000, 		500
-		#CZ_LargeTent_Drinks, 				*, 		5000, 		500
-		#CZ_LargeTent_Drugs, 				*, 		5000, 		500
-		#CZ_LargeTent_Food, 				*, 		5000, 		500
-		#CZ_LargeTent_Medical,				*, 		5000, 		500
-		#CZ_LargeTent_Melee, 				*, 		5000, 		500
-		#CZ_LargeTent_Tools, 				*, 		5000, 		500
-		#CZ_LargeTent_Toxic, 				*, 		5000, 		500
-		#CZ_LargeTent_Vehicle, 				*, 		5000, 		500
-		#CZ_LargeTent_Weapons, 				*, 		5000, 		500
-		#CZ_LargeTent_Weed, 				*, 		5000, 		500
-		#CZ_LargeTent_Woodland, 			*, 		5000, 		500
-		#CZ_LargeTent_BlackWoodland, 			*, 		5000, 		500
-		#CZ_LargeTent_Sell, 				*, 		5000, 		500
+		#CZ_LargeTent_Desert, 				*, 		7000, 		500
+		#CZ_LargeTent_Woodland, 			*, 		7000, 		500
+		#CZ_LargeTent_BlackWoodland, 			*, 		7000, 		500
+		#CZ_MediumTent_BlackWoodland, 			*, 		3000, 		500
+		#CZ_MediumTent_Desert, 				*, 		3000, 		500
+		#CZ_MediumTent_Woodland, 			*, 		3000, 		500
+		#CZ_CarTent_BlackWoodland, 			*, 		3000, 		500
+		#CZ_CarTent_Desert,				*, 		7000, 		500
+		#CZ_CarTent_Woodland, 				*, 		7000, 		500
 		MilitaryGear_LargeTent_ATACS,			*,		7000,		1200
 		MilitaryGear_LargeTent_CADPAT,			*,		7000,		1200
 		MilitaryGear_LargeTent_DPM,			*,		7000,		1200
@@ -58,8 +48,6 @@
 		MilitaryGear_CarTent_Yeger,			*,		5000,		700
  
  
-<Trader> Clothing Trader
-	
 	<Category> Military Gear | Other
 	
 		MilitaryGear_Bandana_Black,			*,		80,	40
