@@ -3,18 +3,15 @@
 
 	<Category> Military Gear | PartizanM
 	
-  		#MilitaryGear_MVSVest_PartizanM,		*,     500,     150
-  		#MilitaryGear_MVSPack_PartizanM,		*,     300,     50
-  		#MilitaryGear_MVSMagPouch_PartizanM,		*,     300,     50
-  		#MilitaryGear_MVSUtilityPouch_PartizanM,	*,     300,     50
-  		#MilitaryGear_MVSMedicalPouch_PartizanM,	*,     300,     50
-  		#MilitaryGear_MassRuckBag_PartizanM,		*,     1000,    5
- 		#MilitaryGear_MassMolleBag_PartizanM,		*,     1000,    5
-  		#MilitaryGear_MassSlingBag_PartizanM,    	*,     1000,    5
-  		#MilitaryGear_MVSAdminPouch_PartizanM,		*,      300,    50
-		MilitaryGear_TacticalHelmet_PartizanM,	*,		150,	75
-		MilitaryGear_TacticalHelmet_PartizanM,	*,		150,	75
-		MilitaryGear_TacticalHelmet_PartizanM,	*,		150,	75
+  		#MilitaryGear_MVSVest_PartizanM,		*,     		500,     150
+  		#MilitaryGear_MVSPack_PartizanM,		*,     		300,     50
+  		#MilitaryGear_MVSMagPouch_PartizanM,		*,     		300,     50
+  		#MilitaryGear_MVSUtilityPouch_PartizanM,	*,     		300,     50
+  		#MilitaryGear_MVSMedicalPouch_PartizanM,	*,    		300,     50
+  		#MilitaryGear_MassRuckBag_PartizanM,		*,    		1000,    5
+ 		#MilitaryGear_MassMolleBag_PartizanM,		*,     		1000,    5
+  		#MilitaryGear_MassSlingBag_PartizanM,    	*,     		1000,    5
+  		#MilitaryGear_MVSAdminPouch_PartizanM,		*,      	300,    50
  		MilitaryGear_BoonieHat_PartizanM,		*,		80,	40
    		MilitaryGear_Beanie_PartizanM,			*,		80,	40
    		MilitaryGear_TacticalHelmet_PartizanM,		*,		160,	80
@@ -45,20 +42,20 @@
 		
 	<Category> Military Gear | Duckhunter
 	
-		#MilitaryGear_MVSVest_Duckhunter,        	*,      500,                 150
-		#MilitaryGear_MVSPack_Duckhunter,               *,      300,                 50
-		#MilitaryGear_MVSMagPouch_Duckhunter,           *,      300,                 50
-		#MilitaryGear_MVSAdminPouch_Duckhunter,         *,      300,                 50
-		#MilitaryGear_MVSUtilityPouch_Duckhunter,       *,      300,                 50
-		#MilitaryGear_MVSMedicalPouch_Duckhunter,	*,      300,                 50
-		#MilitaryGear_MassRuckBag_Duckhunter,    	*,      1000,                5
-		#MilitaryGear_MassBag_Duckhunter,        	*,      1000,                5
-		#MilitaryGear_MassMolleBag_Duckhunter,   	*,      1000,                5
-		#MilitaryGear_MassSlingBag_Duckhunter,   	*,      1000,   5
-		MilitaryGear_BoonieHat_Duckhunter,		*,		80,		40
-		MilitaryGear_Beanie_Duckhunter,			*,		80,		40
+		#MilitaryGear_MVSVest_Duckhunter,        	*,      	500,    150
+		#MilitaryGear_MVSPack_Duckhunter,               *,      	300,    50
+		#MilitaryGear_MVSMagPouch_Duckhunter,           *,      	300,    50
+		#MilitaryGear_MVSAdminPouch_Duckhunter,         *,     		300,    50
+		#MilitaryGear_MVSUtilityPouch_Duckhunter,       *,      	300,    50
+		#MilitaryGear_MVSMedicalPouch_Duckhunter,	*,      	300,    50
+		#MilitaryGear_MassRuckBag_Duckhunter,    	*,      	1000,   5
+		#MilitaryGear_MassBag_Duckhunter,        	*,      	1000,   5
+		#MilitaryGear_MassMolleBag_Duckhunter,   	*,      	1000,   5
+		#MilitaryGear_MassSlingBag_Duckhunter,   	*,      	1000,   5
+		MilitaryGear_BoonieHat_Duckhunter,		*,		80,	40
+		MilitaryGear_Beanie_Duckhunter,			*,		80,	40
 		MilitaryGear_TacticalHelmet_Duckhunter,		*,		160,	80
-		MilitaryGear_Bandana_Duckhunter,		*,		80,		40
+		MilitaryGear_Bandana_Duckhunter,		*,		80,	40
 		MilitaryGear_Balaclava3_Duckhunter,		*,		100,	50
 		MilitaryGear_Balaclava3Skull_Duckhunter,	*,		150,	75
 		MilitaryGear_TacticalShirt_Duckhunter,		*,		400,	200
@@ -85,20 +82,20 @@
 
 	<Category> Military Gear | Multicam
 	
-		#MilitaryGear_MVSVest_Multicam,                 *,              500,                 150
-		#MilitaryGear_MVSPack_Multicam,                 *,              300,                 50
-		#MilitaryGear_MVSMagPouch_Multicam,             *,              300,                 50
-		#MilitaryGear_MVSAdminPouch_Multicam,           *,              300,                 50
-		#MilitaryGear_MVSUtilityPouch_Multicam,         *,              300,                 50
-		#MilitaryGear_MVSMedicalPouch_Multicam,         *,              300,                 50
-		#MilitaryGear_MassRuckBag_Multicam,             *,              1000,                5
-		#MilitaryGear_MassBag_Multicam,                 *,              1000,                5
-		#MilitaryGear_MassMolleBag_Multicam,            *,              1000,                5
-		#MilitaryGear_MassSlingBag_Multicam,            *,              1000,                5
-		MilitaryGear_BoonieHat_Multicam,		*,		80,		40
-		MilitaryGear_Beanie_Multicam,			*,		80,		40
+		#MilitaryGear_MVSVest_Multicam,                 *,              500,    150
+		#MilitaryGear_MVSPack_Multicam,                 *,              300,    50
+		#MilitaryGear_MVSMagPouch_Multicam,             *,              300,    50
+		#MilitaryGear_MVSAdminPouch_Multicam,           *,              300,    50
+		#MilitaryGear_MVSUtilityPouch_Multicam,         *,              300,    50
+		#MilitaryGear_MVSMedicalPouch_Multicam,         *,              300,    50
+		#MilitaryGear_MassRuckBag_Multicam,             *,              1000,   5
+		#MilitaryGear_MassBag_Multicam,                 *,              1000,   5
+		#MilitaryGear_MassMolleBag_Multicam,            *,              1000,   5
+		#MilitaryGear_MassSlingBag_Multicam,            *,              1000,   5
+		MilitaryGear_BoonieHat_Multicam,		*,		80,	40
+		MilitaryGear_Beanie_Multicam,			*,		80,	40
 		MilitaryGear_TacticalHelmet_Multicam,		*,		160,	80
-		MilitaryGear_Bandana_Multicam,			*,		80,		40
+		MilitaryGear_Bandana_Multicam,			*,		80,	40
 		MilitaryGear_Balaclava3_Multicam,		*,		100,	50
 		MilitaryGear_Balaclava3Skull_Multicam,		*,		150,	75
 		MilitaryGear_TacticalShirt_Multicam,		*,		400,	200
@@ -204,20 +201,20 @@
 		
 	<Category> Military Gear | Tiger
 	
-		#MilitaryGear_MVSVest_Tiger,                    *,                   500,                 150
-		#MilitaryGear_MVSPack_Tiger,                    *,                   300,                 50
-		#MilitaryGear_MVSMagPouch_Tiger,                *,                   300,                 50
-		#MilitaryGear_MVSAdminPouch_Tiger,              *,                   300,                 50
-		#MilitaryGear_MVSUtilityPouch_Tiger,             *,                   300,                 50
-		#MilitaryGear_MVSMedicalPouch_Tiger,                                    *,                   300,                 50
-		#MilitaryGear_MassRuckBag_Tiger,                                        *,                   1000,                5
-		#MilitaryGear_MassBag_Tiger,                                            *,                   1000,                5
-		#MilitaryGear_MassMolleBag_Tiger,                                       *,                   1000,                5
-		#MilitaryGear_MassSlingBag_Tiger,                                       *,                   1000,                5
-		MilitaryGear_BoonieHat_Tiger,			*,		80,		40
-		MilitaryGear_Beanie_Tiger,			*,		80,		40
+		#MilitaryGear_MVSVest_Tiger,                    *,              500,    150
+		#MilitaryGear_MVSPack_Tiger,                    *,              300,    50
+		#MilitaryGear_MVSMagPouch_Tiger,                *,              300,    50
+		#MilitaryGear_MVSAdminPouch_Tiger,              *,              300,    50
+		#MilitaryGear_MVSUtilityPouch_Tiger,            *,              300,    50
+		#MilitaryGear_MVSMedicalPouch_Tiger,            *,              300,    50
+		#MilitaryGear_MassRuckBag_Tiger,                *,              1000,   5
+		#MilitaryGear_MassBag_Tiger,                    *,              1000,   5
+		#MilitaryGear_MassMolleBag_Tiger,               *,              1000,   5
+		#MilitaryGear_MassSlingBag_Tiger,               *,              1000,   5
+		MilitaryGear_BoonieHat_Tiger,			*,		80,	40
+		MilitaryGear_Beanie_Tiger,			*,		80,	40
 		MilitaryGear_TacticalHelmet_Tiger,		*,		160,	80
-		MilitaryGear_Bandana_Tiger,			*,		80,		40
+		MilitaryGear_Bandana_Tiger,			*,		80,	40
 		MilitaryGear_Balaclava3_Tiger,			*,		100,	50
 		MilitaryGear_Balaclava3Skull_Tiger,		*,		150,	75
 		MilitaryGear_TacticalShirt_Tiger,		*,		400,	200
@@ -244,20 +241,20 @@
  
  	<Category> Military Gear | Woodland
 	
-		#MilitaryGear_MVSVest_Woodland,                 *,                   500,                 150
-		#MilitaryGear_MVSPack_Woodland,                 *,                   300,                 50
-		#MilitaryGear_MVSMagPouch_Woodland,             *,                   300,                 50
-		#MilitaryGear_MVSAdminPouch_Woodland,           *,                   300,                 50
-		#MilitaryGear_MVSUtilityPouch_Woodland,         *,                   300,                 50
-		#MilitaryGear_MVSMedicalPouch_Woodland,         *,                   300,                 50
-		#MilitaryGear_MassRuckBag_Woodland,             *,                   1000,                5
-		#MilitaryGear_MassBag_Woodland,                 *,                   1000,                5
-		#MilitaryGear_MassMolleBag_Woodland,            *,                   1000,                5
-		#MilitaryGear_MassSlingBag_Woodland,            *,                   1000,                5
-		MilitaryGear_BoonieHat_Woodland,		*,		80,		40
-		MilitaryGear_Beanie_Woodland,			*,		80,		40
+		#MilitaryGear_MVSVest_Woodland,                 *,              500,    150
+		#MilitaryGear_MVSPack_Woodland,                 *,              300,    50
+		#MilitaryGear_MVSMagPouch_Woodland,             *,              300,    50
+		#MilitaryGear_MVSAdminPouch_Woodland,           *,              300,    50
+		#MilitaryGear_MVSUtilityPouch_Woodland,         *,              300,    50
+		#MilitaryGear_MVSMedicalPouch_Woodland,         *,              300,    50
+		#MilitaryGear_MassRuckBag_Woodland,             *,              1000,   5
+		#MilitaryGear_MassBag_Woodland,                 *,              1000,   5
+		#MilitaryGear_MassMolleBag_Woodland,            *,              1000,   5
+		#MilitaryGear_MassSlingBag_Woodland,            *,              1000,   5
+		MilitaryGear_BoonieHat_Woodland,		*,		80,	40
+		MilitaryGear_Beanie_Woodland,			*,		80,	40
 		MilitaryGear_TacticalHelmet_Woodland,		*,		160,	80
-		MilitaryGear_Bandana_Woodland,			*,		80,		40
+		MilitaryGear_Bandana_Woodland,			*,		80,	40
 		MilitaryGear_Balaclava3_Woodland,		*,		100,	50
 		MilitaryGear_Balaclava3Skull_Woodland,		*,		150,	75
 		MilitaryGear_TacticalShirt_Woodland,		*,		400,	200
@@ -284,13 +281,13 @@
  
  	<Category> Military Gear | FLT
 	
-		#MilitaryGear_MVSVest_FLT,                      *,              500,                 150
-		#MilitaryGear_MVSPack_FLT,                      *,              300,                 50
-		#MilitaryGear_MVSMagPouch_FLT,                  *,              300,                 50
-		#MilitaryGear_MVSAdminPouch_FLT,                *,              300,                 50
-		#MilitaryGear_MVSUtilityPouch_FLT,              *,              300,                 50
-		#MilitaryGear_MVSMedicalPouch_FLT,              *,              300,                 50
-		#MilitaryGear_MassRuckBag_FLT,                  *,              1000,                5
+		#MilitaryGear_MVSVest_FLT,                      *,              500,    150
+		#MilitaryGear_MVSPack_FLT,                      *,              300,    50
+		#MilitaryGear_MVSMagPouch_FLT,                  *,              300,    50
+		#MilitaryGear_MVSAdminPouch_FLT,                *,              300,    50
+		#MilitaryGear_MVSUtilityPouch_FLT,              *,              300,    50
+		#MilitaryGear_MVSMedicalPouch_FLT,              *,              300,    50
+		#MilitaryGear_MassRuckBag_FLT,                  *,              1000,   5
 		#MilitaryGear_MassBag_FLT,                      *,              1000,   5
 		#MilitaryGear_MassMolleBag_FLT,                 *,              1000,   5
 		#MilitaryGear_MassSlingBag_FLT,                 *,              1000,   5
@@ -324,40 +321,40 @@
 		
 	<Category> Military Gear | DPM
 	
-		MilitaryGear_MVSVest_DPM,                                              *,                   500,                 150
-		MilitaryGear_MVSPack_DPM,                                              *,                   300,                 50
-		MilitaryGear_MVSMagPouch_DPM,                                          *,                   300,                 50
-		MilitaryGear_MVSAdminPouch_DPM,                                        *,                   300,                 50
-		MilitaryGear_MVSUtilityPouch_DPM,                                      *,                   300,                 50
-		MilitaryGear_MVSMedicalPouch_DPM,                                      *,                   300,                 50
-		MilitaryGear_MassRuckBag_DPM,                                          *,                   1000,                5
-		MilitaryGear_MassBag_DPM,                                              *,                   1000,                5
-		MilitaryGear_MassMolleBag_DPM,                                         *,                   1000,                5
-		MilitaryGear_MassSlingBag_DPM,                                         *,                   1000,                5
-		MilitaryGear_BoonieHat_DPM,			*,		80,		40
-		MilitaryGear_Beanie_DPM,			*,		80,		40
+		MilitaryGear_MVSVest_DPM,                       *,              500,    150
+		MilitaryGear_MVSPack_DPM,                       *,              300,    50
+		MilitaryGear_MVSMagPouch_DPM,                   *,              300,    50
+		MilitaryGear_MVSAdminPouch_DPM,                 *,              300,    50
+		MilitaryGear_MVSUtilityPouch_DPM,               *,              300,    50
+		MilitaryGear_MVSMedicalPouch_DPM,               *,              300,    50
+		MilitaryGear_MassRuckBag_DPM,                   *,              1000,   5
+		MilitaryGear_MassBag_DPM,                       *,              1000,   5
+		MilitaryGear_MassMolleBag_DPM,                  *,              1000,   5
+		MilitaryGear_MassSlingBag_DPM,                  *,              1000,   5
+		MilitaryGear_BoonieHat_DPM,			*,		80,	40
+		MilitaryGear_Beanie_DPM,			*,		80,	40
 		MilitaryGear_TacticalHelmet_DPM,		*,		160,	80
-		MilitaryGear_Bandana_DPM,			*,		80,		40
-		MilitaryGear_Balaclava3_DPM,		*,		100,	50
-		MilitaryGear_Balaclava3Skull_DPM,	*,		150,	75
-		MilitaryGear_TacticalShirt_DPM,		*,		400,	200
-		MilitaryGear_PatrolJacket_DPM,		*,		440,	220
-		MilitaryGear_FieldJacket_DPM,		*,		500,	250
-		MilitaryGear_CombatJacket_DPM,		*,		500,	250
-		MilitaryGear_TacticalPants_DPM,		*,		400,	200
-		MilitaryGear_PatrolPants_DPM,		*,		440,	220
-		MilitaryGear_FieldPants_DPM,		*,		500,	250
-		MilitaryGear_AssaultVest_DPM,		*,		440,	220
-		MilitaryGear_HighCapVest_DPM,		*,		500,	250
-		MilitaryGear_PlateCarrier_DPM,		*,		520,	260
-		MilitaryGear_AssaultBag_DPM,		*,		400,	200
-		MilitaryGear_TortillaBag_DPM,		*,		440,	220
+		MilitaryGear_Bandana_DPM,			*,		80,	40
+		MilitaryGear_Balaclava3_DPM,			*,		100,	50
+		MilitaryGear_Balaclava3Skull_DPM,		*,		150,	75
+		MilitaryGear_TacticalShirt_DPM,			*,		400,	200
+		MilitaryGear_PatrolJacket_DPM,			*,		440,	220
+		MilitaryGear_FieldJacket_DPM,			*,		500,	250
+		MilitaryGear_CombatJacket_DPM,			*,		500,	250
+		MilitaryGear_TacticalPants_DPM,			*,		400,	200
+		MilitaryGear_PatrolPants_DPM,			*,		440,	220
+		MilitaryGear_FieldPants_DPM,			*,		500,	250
+		MilitaryGear_AssaultVest_DPM,			*,		440,	220
+		MilitaryGear_HighCapVest_DPM,			*,		500,	250
+		MilitaryGear_PlateCarrier_DPM,			*,		520,	260
+		MilitaryGear_AssaultBag_DPM,			*,		400,	200
+		MilitaryGear_TortillaBag_DPM,			*,		440,	220
 		MilitaryGear_CoyoteBag_DPM,			*,		440,	220
-		MilitaryGear_HuntingBag_DPM,		*,		500,	250
-		MilitaryGear_MountainBag_DPM,		*,		560,	280
+		MilitaryGear_HuntingBag_DPM,			*,		500,	250
+		MilitaryGear_MountainBag_DPM,			*,		560,	280
 		MilitaryGear_AliceBag_DPM,			*,		600,	300
-		MilitaryGear_GhillieGunWrap_DPM,	*,		220,	-1
-		MilitaryGear_GhillieHood_DPM,		*,		220,	-1
-		MilitaryGear_GhillieBushrag_DPM,	*,		440,	-1
-		MilitaryGear_GhillieTop_DPM,		*,		1000,	-1
-		MilitaryGear_GhillieSuit_DPM,		*,		1400,	-1
+		MilitaryGear_GhillieGunWrap_DPM,		*,		220,	-1
+		MilitaryGear_GhillieHood_DPM,			*,		220,	-1
+		MilitaryGear_GhillieBushrag_DPM,		*,		440,	-1
+		MilitaryGear_GhillieTop_DPM,			*,		1000,	-1
+		MilitaryGear_GhillieSuit_DPM,			*,		1400,	-1
