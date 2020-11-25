@@ -462,16 +462,16 @@
 		
  	<Category> Military Gear | Partizan
 	
-		#MilitaryGear_MVSVest_Partizan,                  *,              500,    150
-		#MilitaryGear_MVSPack_Partizan,                  *,              300,    50
-		#MilitaryGear_MVSMagPouch_Partizan,              *,              300,    50
-		#MilitaryGear_MVSAdminPouch_Partizan,            *,              300,    50
-		#MilitaryGear_MVSUtilityPouch_Partizan,          *,              300,    50
-		#MilitaryGear_MVSMedicalPouch_Partizan,          *,              300,    50
-		#MilitaryGear_MassRuckBag_Partizan,              *,              1000,   5
-		#MilitaryGear_MassBag_Partizan,                  *,              1000,   5
-		#MilitaryGear_MassMolleBag_Partizan,             *,              1000,   5
-		#MilitaryGear_MassSlingBag_Partizan,             *,              1000,   5
+		#MilitaryGear_MVSVest_Partizan,                 *,              500,    150
+		#MilitaryGear_MVSPack_Partizan,                 *,              300,    50
+		#MilitaryGear_MVSMagPouch_Partizan,             *,              300,    50
+		#MilitaryGear_MVSAdminPouch_Partizan,           *,              300,    50
+		#MilitaryGear_MVSUtilityPouch_Partizan,         *,              300,    50
+		#MilitaryGear_MVSMedicalPouch_Partizan,         *,              300,    50
+		#MilitaryGear_MassRuckBag_Partizan,             *,              1000,   5
+		#MilitaryGear_MassBag_Partizan,                 *,              1000,   5
+		#MilitaryGear_MassMolleBag_Partizan,            *,              1000,   5
+		#MilitaryGear_MassSlingBag_Partizan,            *,              1000,   5
 		MilitaryGear_BoonieHat_Partizan,		*,		80,	40
 		MilitaryGear_Beanie_Partizan,			*,		80,	40
 		MilitaryGear_TacticalHelmet_Partizan,		*,		160,	80
