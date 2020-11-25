@@ -42,16 +42,16 @@
 		
 	<Category> Military Gear | Duckhunter
 	
-		MilitaryGear_MVSVest_Duckhunter,        	*,      500,                 150
-		MilitaryGear_MVSPack_Duckhunter,                *,      300,                 50
-		MilitaryGear_MVSMagPouch_Duckhunter,            *,      300,                 50
-		MilitaryGear_MVSAdminPouch_Duckhunter,          *,      300,                 50
-		MilitaryGear_MVSUtilityPouch_Duckhunter,        *,      300,                 50
-		MilitaryGear_MVSMedicalPouch_Duckhunter,	*,      300,                 50
-		MilitaryGear_MassRuckBag_Duckhunter,    	*,      1000,                5
-		MilitaryGear_MassBag_Duckhunter,        	*,      1000,                5
-		MilitaryGear_MassMolleBag_Duckhunter,   	*,      1000,                5
-		MilitaryGear_MassSlingBag_Duckhunter,   	*,      1000,   5
+		# MilitaryGear_MVSVest_Duckhunter,        	*,      500,                 150
+		# MilitaryGear_MVSPack_Duckhunter,                *,      300,                 50
+		# MilitaryGear_MVSMagPouch_Duckhunter,            *,      300,                 50
+		# MilitaryGear_MVSAdminPouch_Duckhunter,          *,      300,                 50
+		# MilitaryGear_MVSUtilityPouch_Duckhunter,        *,      300,                 50
+		# MilitaryGear_MVSMedicalPouch_Duckhunter,	*,      300,                 50
+		# MilitaryGear_MassRuckBag_Duckhunter,    	*,      1000,                5
+		# MilitaryGear_MassBag_Duckhunter,        	*,      1000,                5
+		# MilitaryGear_MassMolleBag_Duckhunter,   	*,      1000,                5
+		# MilitaryGear_MassSlingBag_Duckhunter,   	*,      1000,   5
 		MilitaryGear_BoonieHat_Duckhunter,		*,		80,		40
 		MilitaryGear_Beanie_Duckhunter,			*,		80,		40
 		MilitaryGear_TacticalHelmet_Duckhunter,		*,		160,	80
