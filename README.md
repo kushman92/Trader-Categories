@@ -1,6 +1,64 @@
 # Trader-Categories
 # (#) - Needs to be added
+? (?) Unsure of item
 
+<Trader> Base-Building Trader
+	
+	<Category> Military Gear | Large Tents
+	
+		MilitaryGear_LargeTent_ATACS,			*,		7000,		1200
+		MilitaryGear_LargeTent_CADPAT,			*,		7000,		1200
+		MilitaryGear_LargeTent_DPM,				*,		7000,		1200
+		MilitaryGear_LargeTent_Duckhunter,		*,		7000,		1200
+		MilitaryGear_LargeTent_FLT,				*,		7000,		1200
+		MilitaryGear_LargeTent_MPAT,			*,		7000,		1200
+		MilitaryGear_LargeTent_Multicam,		*,		7000,		1200
+		MilitaryGear_LargeTent_Partizan,		*,		7000,		1200
+		MilitaryGear_LargeTent_PartizanM,		*,		7000,		1200
+		MilitaryGear_LargeTent_Skol,			*,		7000,		1200
+		MilitaryGear_LargeTent_Splinter,		*,		7000,		1200
+		MilitaryGear_LargeTent_Splinter_Dark,	*,		7000,		1200
+		MilitaryGear_LargeTent_Tiger,			*,		7000,		1200
+		MilitaryGear_LargeTent_Tropic,			*,		7000,		1200
+		MilitaryGear_LargeTent_Woodland,		*,		7000,		1200
+		MilitaryGear_LargeTent_Yeger,			*,		7000,		1200
+ 
+	<Category> Military Gear | Car Tents
+	
+		MilitaryGear_CarTent_ATACS,			*,		5000,		700
+		MilitaryGear_CarTent_CADPAT,		*,		5000,		700
+		MilitaryGear_CarTent_DPM,			*,		5000,		700
+		MilitaryGear_CarTent_Duckhunter,	*,		5000,		700
+		MilitaryGear_CarTent_FLT,			*,		5000,		700
+		MilitaryGear_CarTent_MPAT,			*,		5000,		700
+		MilitaryGear_CarTent_Multicam,		*,		5000,		700
+		MilitaryGear_CarTent_Partizan,		*,		5000,		700
+		MilitaryGear_CarTent_PartizanM,		*,		5000,		700
+		MilitaryGear_CarTent_Skol,			*,		5000,		700
+		MilitaryGear_CarTent_Splinter,		*,		5000,		700
+		MilitaryGear_CarTent_Splinter_Dark,	*,		5000,		700
+		MilitaryGear_CarTent_Tiger,			*,		5000,		700
+		MilitaryGear_CarTent_Tropic,		*,		5000,		700
+		MilitaryGear_CarTent_Woodland,		*,		5000,		700
+		MilitaryGear_CarTent_Yeger,			*,		5000,		700
+ 
+ 
+<Trader> Clothing Trader
+	
+	<Category> Military Gear | Other
+	
+		MilitaryGear_Bandana_Black,				*,		80,		40
+		MilitaryGear_Bandana_Brown,				*,		80,		40
+		MilitaryGear_GasMask_Black,				*,		100, 	50
+		MilitaryGear_GasMask_Brown,				*,		100,	50
+		MilitaryGear_GasMask_Olive,				*,		100,	50
+		MilitaryGear_GP5GasMask_Black,			*,		120, 	60
+		MilitaryGear_GP5GasMask_Brown,			*,		120,	60
+		MilitaryGear_GP5GasMask_Olive,			*,		120,	60
+		?MilitaryGear_TacticalHelmet_PartizanM,	*,		150,	75
+		?MilitaryGear_TacticalHelmet_PartizanM,	*,		150,	75
+		?MilitaryGear_TacticalHelmet_PartizanM,	*,		150,	75
+		
 	<Category> Military Gear | PartizanM
 	
   		#MilitaryGear_MVSVest_PartizanM,		*,     		500,     150
