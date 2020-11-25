@@ -361,67 +361,67 @@
 
 	<Category> Military Gear | MPAT
 	
-		MilitaryGear_MVSVest_MPAT,                                             *,                   500,                 150
-		MilitaryGear_MVSPack_MPAT,                                             *,                   300,                 50
-		MilitaryGear_MVSMagPouch_MPAT,                                         *,                   300,                 50
-		MilitaryGear_MVSAdminPouch_MPAT,                                       *,                   300,                 50
-		MilitaryGear_MVSUtilityPouch_MPAT,                                     *,                   300,                 50
-		MilitaryGear_MVSMedicalPouch_MPAT,                                     *,                   300,                 50
-		MilitaryGear_MassRuckBag_MPAT,                                         *,                   1000,                5
-		MilitaryGear_MassBag_MPAT,                                             *,                   1000,                5
-		MilitaryGear_MassMolleBag_MPAT,                                        *,                   1000,                5
-		MilitaryGear_MassSlingBag_MPAT,                                        *,                   1000,                5
-		MilitaryGear_BoonieHat_MPAT,		*,		80,		40
-		MilitaryGear_Beanie_MPAT,			*,		80,		40
-		MilitaryGear_TacticalHelmet_MPAT,	*,		160,	80
-		MilitaryGear_Bandana_MPAT,			*,		80,		40
-		MilitaryGear_Balaclava3_MPAT,		*,		100,	50
-		MilitaryGear_Balaclava3Skull_MPAT,	*,		150,	75
-		MilitaryGear_TacticalShirt_MPAT,	*,		400,	200
-		MilitaryGear_PatrolJacket_MPAT,		*,		440,	220
-		MilitaryGear_FieldJacket_MPAT,		*,		500,	250
-		MilitaryGear_CombatJacket_MPAT,		*,		500,	250
-		MilitaryGear_TacticalPants_MPAT,	*,		400,	200
-		MilitaryGear_PatrolPants_MPAT,		*,		440,	220
-		MilitaryGear_FieldPants_MPAT,		*,		500,	250
-		MilitaryGear_AssaultVest_MPAT,		*,		440,	220
-		MilitaryGear_HighCapVest_MPAT,		*,		500,	250
-		MilitaryGear_PlateCarrier_MPAT,		*,		520,	260
-		MilitaryGear_AssaultBag_MPAT,		*,		400,	200
-		MilitaryGear_TortillaBag_MPAT,		*,		440,	220
-		MilitaryGear_CoyoteBag_MPAT,		*,		440,	220
-		MilitaryGear_HuntingBag_MPAT,		*,		500,	250
-		MilitaryGear_MountainBag_MPAT,		*,		560,	280
+		MilitaryGear_MVSVest_MPAT,                      *,              500,    150
+		MilitaryGear_MVSPack_MPAT,                      *,              300,    50
+		MilitaryGear_MVSMagPouch_MPAT,                  *,              300,    50
+		MilitaryGear_MVSAdminPouch_MPAT,                *,              300,    50
+		MilitaryGear_MVSUtilityPouch_MPAT,              *,              300,    50
+		MilitaryGear_MVSMedicalPouch_MPAT,              *,              300,    50
+		MilitaryGear_MassRuckBag_MPAT,                  *,              1000,   5
+		MilitaryGear_MassBag_MPAT,                      *,              1000,   5
+		MilitaryGear_MassMolleBag_MPAT,                 *,              1000,   5
+		MilitaryGear_MassSlingBag_MPAT,                 *,              1000,   5
+		MilitaryGear_BoonieHat_MPAT,			*,		80,	40
+		MilitaryGear_Beanie_MPAT,			*,		80,	40
+		MilitaryGear_TacticalHelmet_MPAT,		*,		160,	80
+		MilitaryGear_Bandana_MPAT,			*,		80,	40
+		MilitaryGear_Balaclava3_MPAT,			*,		100,	50
+		MilitaryGear_Balaclava3Skull_MPAT,		*,		150,	75
+		MilitaryGear_TacticalShirt_MPAT,		*,		400,	200
+		MilitaryGear_PatrolJacket_MPAT,			*,		440,	220
+		MilitaryGear_FieldJacket_MPAT,			*,		500,	250
+		MilitaryGear_CombatJacket_MPAT,			*,		500,	250
+		MilitaryGear_TacticalPants_MPAT,		*,		400,	200
+		MilitaryGear_PatrolPants_MPAT,			*,		440,	220
+		MilitaryGear_FieldPants_MPAT,			*,		500,	250
+		MilitaryGear_AssaultVest_MPAT,			*,		440,	220
+		MilitaryGear_HighCapVest_MPAT,			*,		500,	250
+		MilitaryGear_PlateCarrier_MPAT,			*,		520,	260
+		MilitaryGear_AssaultBag_MPAT,			*,		400,	200
+		MilitaryGear_TortillaBag_MPAT,			*,		440,	220
+		MilitaryGear_CoyoteBag_MPAT,			*,		440,	220
+		MilitaryGear_HuntingBag_MPAT,			*,		500,	250
+		MilitaryGear_MountainBag_MPAT,			*,		560,	280
 		MilitaryGear_AliceBag_MPAT,			*,		600,	300
-		MilitaryGear_GhillieGunWrap_MPAT,	*,		220,	-1
-		MilitaryGear_GhillieHood_MPAT,		*,		220,	-1
-		MilitaryGear_GhillieBushrag_MPAT,	*,		440,	-1
-		MilitaryGear_GhillieTop_MPAT,		*,		1000,	-1
-		MilitaryGear_GhillieSuit_MPAT,		*,		1400,	-1
+		MilitaryGear_GhillieGunWrap_MPAT,		*,		220,	-1
+		MilitaryGear_GhillieHood_MPAT,			*,		220,	-1
+		MilitaryGear_GhillieBushrag_MPAT,		*,		440,	-1
+		MilitaryGear_GhillieTop_MPAT,			*,		1000,	-1
+		MilitaryGear_GhillieSuit_MPAT,			*,		1400,	-1
 		
  	<Category> Military Gear | Partizan
 	
-		MilitaryGear_MVSVest_Partizan,                                         *,                   500,                 150
-		MilitaryGear_MVSPack_Partizan,                                         *,                   300,                 50
-		MilitaryGear_MVSMagPouch_Partizan,                                     *,                   300,                 50
-		MilitaryGear_MVSAdminPouch_Partizan,                                   *,                   300,                 50
-		MilitaryGear_MVSUtilityPouch_Partizan,                                 *,                   300,                 50
-		MilitaryGear_MVSMedicalPouch_Partizan,                                 *,                   300,                 50
-		MilitaryGear_MassRuckBag_Partizan,                                     *,                   1000,                5
-		MilitaryGear_MassBag_Partizan,                                         *,                   1000,                5
-		MilitaryGear_MassMolleBag_Partizan,                                    *,                   1000,                5
-		MilitaryGear_MassSlingBag_Partizan,                                    *,                   1000,                5
-		MilitaryGear_BoonieHat_Partizan,		*,		80,		40
-		MilitaryGear_Beanie_Partizan,			*,		80,		40
-		MilitaryGear_TacticalHelmet_Partizan,	*,		160,	80
-		MilitaryGear_Bandana_Partizan,			*,		80,		40
+		MilitaryGear_MVSVest_Partizan,                  *,              500,    150
+		MilitaryGear_MVSPack_Partizan,                  *,              300,    50
+		MilitaryGear_MVSMagPouch_Partizan,              *,              300,    50
+		MilitaryGear_MVSAdminPouch_Partizan,            *,              300,    50
+		MilitaryGear_MVSUtilityPouch_Partizan,          *,              300,    50
+		MilitaryGear_MVSMedicalPouch_Partizan,          *,              300,    50
+		MilitaryGear_MassRuckBag_Partizan,              *,              1000,   5
+		MilitaryGear_MassBag_Partizan,                  *,              1000,   5
+		MilitaryGear_MassMolleBag_Partizan,             *,              1000,   5
+		MilitaryGear_MassSlingBag_Partizan,             *,              1000,   5
+		MilitaryGear_BoonieHat_Partizan,		*,		80,	40
+		MilitaryGear_Beanie_Partizan,			*,		80,	40
+		MilitaryGear_TacticalHelmet_Partizan,		*,		160,	80
+		MilitaryGear_Bandana_Partizan,			*,		80,	40
 		MilitaryGear_Balaclava3_Partizan,		*,		100,	50
-		MilitaryGear_Balaclava3Skull_Partizan,	*,		150,	75
-		MilitaryGear_TacticalShirt_Partizan,	*,		400,	200
+		MilitaryGear_Balaclava3Skull_Partizan,		*,		150,	75
+		MilitaryGear_TacticalShirt_Partizan,		*,		400,	200
 		MilitaryGear_PatrolJacket_Partizan,		*,		440,	220
 		MilitaryGear_FieldJacket_Partizan,		*,		500,	250
 		MilitaryGear_CombatJacket_Partizan,		*,		500,	250
-		MilitaryGear_TacticalPants_Partizan,	*,		400,	200
+		MilitaryGear_TacticalPants_Partizan,		*,		400,	200
 		MilitaryGear_PatrolPants_Partizan,		*,		440,	220
 		MilitaryGear_FieldPants_Partizan,		*,		500,	250
 		MilitaryGear_AssaultVest_Partizan,		*,		440,	220
@@ -433,52 +433,208 @@
 		MilitaryGear_HuntingBag_Partizan,		*,		500,	250
 		MilitaryGear_MountainBag_Partizan,		*,		560,	280
 		MilitaryGear_AliceBag_Partizan,			*,		600,	300
-		MilitaryGear_GhillieGunWrap_Partizan,	*,		220,	-1
+		MilitaryGear_GhillieGunWrap_Partizan,		*,		220,	-1
 		MilitaryGear_GhillieHood_Partizan,		*,		220,	-1
-		MilitaryGear_GhillieBushrag_Partizan,	*,		440,	-1
+		MilitaryGear_GhillieBushrag_Partizan,		*,		440,	-1
 		MilitaryGear_GhillieTop_Partizan,		*,		1000,	-1
 		MilitaryGear_GhillieSuit_Partizan,		*,		1400,	-1
  
  	<Category> Military Gear | Skol
 	
-		MilitaryGear_MVSVest_Skol,                                             *,                   500,                 150
-		MilitaryGear_MVSPack_Skol,                                             *,                   300,                 50
-		MilitaryGear_MVSMagPouch_Skol,                                         *,                   300,                 50
-		MilitaryGear_MVSAdminPouch_Skol,                                       *,                   300,                 50
-		MilitaryGear_MVSUtilityPouch_Partizan,                                 *,                   300,                 50
-		MilitaryGear_MVSMedicalPouch_Partizan,                                 *,                   300,                 50
-		MilitaryGear_MassRuckBag_Partizan,                                     *,                   1000,                5
-		MilitaryGear_MassBag_Skol,                                             *,                   1000,                5
-		MilitaryGear_MassMolleBag_Skol,                                        *,                   1000,                5
-		MilitaryGear_MassSlingBag_Skol,                                        *,                   1000,                5
-		MilitaryGear_BoonieHat_Skol,		*,		80,		40
-		MilitaryGear_Beanie_Skol,			*,		80,		40
-		MilitaryGear_TacticalHelmet_Skol,	*,		160,	80
-		MilitaryGear_Bandana_Skol,			*,		80,		40
-		MilitaryGear_Balaclava3_Skol,		*,		100,	50
-		MilitaryGear_Balaclava3Skull_Skol,	*,		150,	75
-		MilitaryGear_TacticalShirt_Skol,	*,		400,	200
-		MilitaryGear_PatrolJacket_Skol,		*,		440,	220
-		MilitaryGear_FieldJacket_Skol,		*,		500,	250
-		MilitaryGear_CombatJacket_Skol,		*,		500,	250
-		MilitaryGear_TacticalPants_Skol,	*,		400,	200
-		MilitaryGear_PatrolPants_Skol,		*,		440,	220
-		MilitaryGear_FieldPants_Skol,		*,		500,	250
-		MilitaryGear_AssaultVest_Skol,		*,		440,	220
-		MilitaryGear_HighCapVest_Skol,		*,		500,	250
-		MilitaryGear_PlateCarrier_Skol,		*,		520,	260
-		MilitaryGear_AssaultBag_Skol,		*,		400,	200
-		MilitaryGear_TortillaBag_Skol,		*,		440,	220
-		MilitaryGear_CoyoteBag_Skol,		*,		440,	220
-		MilitaryGear_HuntingBag_Skol,		*,		500,	250
-		MilitaryGear_MountainBag_Skol,		*,		560,	280
+		MilitaryGear_MVSVest_Skol,                      *,              500,    150
+		MilitaryGear_MVSPack_Skol,                      *,              300,    50
+		MilitaryGear_MVSMagPouch_Skol,                  *,              300,    50
+		MilitaryGear_MVSAdminPouch_Skol,                *,              300,    50
+		MilitaryGear_MVSUtilityPouch_Skol,              *,              300,    50
+		MilitaryGear_MVSMedicalPouch_Skol,              *,              300,    50
+		MilitaryGear_MassRuckBag_Skol,                  *,              1000,   5
+		MilitaryGear_MassBag_Skol,                      *,              1000,   5
+		MilitaryGear_MassMolleBag_Skol,                 *,              1000,   5
+		MilitaryGear_MassSlingBag_Skol,                 *,              1000,   5
+		MilitaryGear_BoonieHat_Skol,			*,		80,	40
+		MilitaryGear_Beanie_Skol,			*,		80,	40
+		MilitaryGear_TacticalHelmet_Skol,		*,		160,	80
+		MilitaryGear_Bandana_Skol,			*,		80,	40
+		MilitaryGear_Balaclava3_Skol,			*,		100,	50
+		MilitaryGear_Balaclava3Skull_Skol,		*,		150,	75
+		MilitaryGear_TacticalShirt_Skol,		*,		400,	200
+		MilitaryGear_PatrolJacket_Skol,			*,		440,	220
+		MilitaryGear_FieldJacket_Skol,			*,		500,	250
+		MilitaryGear_CombatJacket_Skol,			*,		500,	250
+		MilitaryGear_TacticalPants_Skol,		*,		400,	200
+		MilitaryGear_PatrolPants_Skol,			*,		440,	220
+		MilitaryGear_FieldPants_Skol,			*,		500,	250
+		MilitaryGear_AssaultVest_Skol,			*,		440,	220
+		MilitaryGear_HighCapVest_Skol,			*,		500,	250
+		MilitaryGear_PlateCarrier_Skol,			*,		520,	260
+		MilitaryGear_AssaultBag_Skol,			*,		400,	200
+		MilitaryGear_TortillaBag_Skol,			*,		440,	220
+		MilitaryGear_CoyoteBag_Skol,			*,		440,	220
+		MilitaryGear_HuntingBag_Skol,			*,		500,	250
+		MilitaryGear_MountainBag_Skol,			*,		560,	280
 		MilitaryGear_AliceBag_Skol,			*,		600,	300
-		MilitaryGear_GhillieGunWrap_Skol,	*,		220,	-1
-		MilitaryGear_GhillieHood_Skol,		*,		220,	-1
-		MilitaryGear_GhillieBushrag_Skol,	*,		440,	-1
-		MilitaryGear_GhillieTop_Skol,		*,		1000,	-1
-		MilitaryGear_GhillieSuit_Skol,		*,		1400,	-1
+		MilitaryGear_GhillieGunWrap_Skol,		*,		220,	-1
+		MilitaryGear_GhillieHood_Skol,			*,		220,	-1
+		MilitaryGear_GhillieBushrag_Skol,		*,		440,	-1
+		MilitaryGear_GhillieTop_Skol,			*,		1000,	-1
+		MilitaryGear_GhillieSuit_Skol,			*,		1400,	-1
 		
 	<Category> Military Gear | ATACS
 	
+		MilitaryGear_MVSVest_ATACS,                                            *,                   500,                 150
+		MilitaryGear_MVSPack_ATACS,                                            *,                   300,                 50
+		MilitaryGear_MVSMagPouch_ATACS,                                        *,                   300,                 50
+		MilitaryGear_MVSAdminPouch_ATACS,                                      *,                   300,                 50
+		MilitaryGear_MVSUtilityPouch_ATACS,                                    *,                   300,                 50
+		MilitaryGear_MVSMedicalPouch_ATACS,                                    *,                   300,                 50
+		MilitaryGear_MassRuckBag_ATACS,                                        *,                   1000,                5
+		MilitaryGear_MassBag_ATACS,                                            *,                   1000,                5
+		MilitaryGear_MassMolleBag_ATACS,                                       *,                   1000,                5
+		MilitaryGear_MassSlingBag_ATACS,                                       *,                   1000,                5
+		MilitaryGear_BoonieHat_ATACS,			*,		80,		40
+		MilitaryGear_Beanie_ATACS,			*,		80,		40
+		MilitaryGear_TacticalHelmet_ATACS,		*,		160,	80
+		MilitaryGear_Bandana_ATACS,			*,		80,		40
+		MilitaryGear_Balaclava3_ATACS,			*,		100,	50
+		MilitaryGear_Balaclava3Skull_ATACS,		*,		150,	75
+		MilitaryGear_TacticalShirt_ATACS,		*,		400,	200
+		MilitaryGear_PatrolJacket_ATACS,		*,		440,	220
+		MilitaryGear_FieldJacket_ATACS,			*,		500,	250
+		MilitaryGear_CombatJacket_ATACS,	*,		500,	250
+		MilitaryGear_TacticalPants_ATACS,	*,		400,	200
+		MilitaryGear_PatrolPants_ATACS,		*,		440,	220
+		MilitaryGear_FieldPants_ATACS,		*,		500,	250
+		MilitaryGear_AssaultVest_ATACS,		*,		440,	220
+		MilitaryGear_HighCapVest_ATACS,		*,		500,	250
+		MilitaryGear_PlateCarrier_ATACS,	*,		520,	260
+		MilitaryGear_AssaultBag_ATACS,		*,		400,	200
+		MilitaryGear_TortillaBag_ATACS,		*,		440,	220
+		MilitaryGear_CoyoteBag_ATACS,		*,		440,	220
+		MilitaryGear_HuntingBag_ATACS,		*,		500,	250
+		MilitaryGear_MountainBag_ATACS,		*,		560,	280
+		MilitaryGear_AliceBag_ATACS,		*,		600,	300
+		MilitaryGear_GhillieGunWrap_ATACS,	*,		220,	-1
+		MilitaryGear_GhillieHood_ATACS,		*,		220,	-1
+		MilitaryGear_GhillieBushrag_ATACS,	*,		440,	-1
+		MilitaryGear_GhillieTop_ATACS,		*,		1000,	-1
+		MilitaryGear_GhillieSuit_ATACS,		*,		1400,	-1
+ 
+ 	<Category> Military Gear | CADPAT
+	 
+	 	MilitaryGear_MVSVest_CADPAT,                                           *,                   500,                 150
+		MilitaryGear_MVSPack_CADPAT,                                           *,                   300,                 50
+		MilitaryGear_MVSMagPouch_CADPAT,                                       *,                   300,                 50
+		MilitaryGear_MVSAdminPouch_CADPAT,                                     *,                   300,                 50
+		MilitaryGear_MVSUtilityPouch_CADPAT,                                   *,                   300,                 50
+		MilitaryGear_MVSMedicalPouch_CADPAT,                                   *,                   300,                 50
+		MilitaryGear_MassRuckBag_CADPAT,                                       *,                   1000,                5
+		MilitaryGear_MassBag_CADPAT,                                           *,                   1000,                5
+		MilitaryGear_MassMolleBag_CADPAT,                                      *,                   1000,                5
+		MilitaryGear_MassSlingBag_CADPAT,                                      *,                   1000,                5
+	 	MilitaryGear_BoonieHat_CADPAT,		*,		80,		40
+		MilitaryGear_Beanie_CADPAT,			*,		80,		40
+		MilitaryGear_TacticalHelmet_CADPAT,	*,		160,	80
+		MilitaryGear_Bandana_CADPAT,		*,		80,		40
+		MilitaryGear_Balaclava3_CADPAT,		*,		100,	50
+		MilitaryGear_Balaclava3Skull_CADPAT,*,		150,	75
+		MilitaryGear_TacticalShirt_CADPAT,	*,		400,	200
+		MilitaryGear_PatrolJacket_CADPAT,	*,		440,	220
+		MilitaryGear_FieldJacket_CADPAT,	*,		500,	250
+		MilitaryGear_CombatJacket_CADPAT,	*,		500,	250
+		MilitaryGear_TacticalPants_CADPAT,	*,		400,	200
+		MilitaryGear_PatrolPants_CADPAT,	*,		440,	220
+		MilitaryGear_FieldPants_CADPAT,		*,		500,	250
+		MilitaryGear_AssaultVest_CADPAT,	*,		440,	220
+		MilitaryGear_HighCapVest_CADPAT,	*,		500,	250
+		MilitaryGear_PlateCarrier_CADPAT,	*,		520,	260
+		MilitaryGear_AssaultBag_CADPAT,		*,		400,	200
+		MilitaryGear_TortillaBag_CADPAT,	*,		440,	220
+		MilitaryGear_CoyoteBag_CADPAT,		*,		440,	220
+		MilitaryGear_HuntingBag_CADPAT,		*,		500,	250
+		MilitaryGear_MountainBag_CADPAT,	*,		560,	280
+		MilitaryGear_AliceBag_CADPAT,		*,		600,	300
+		MilitaryGear_GhillieGunWrap_CADPAT,	*,		220,	-1
+		MilitaryGear_GhillieHood_CADPAT,	*,		220,	-1
+		MilitaryGear_GhillieBushrag_CADPAT,	*,		440,	-1
+		MilitaryGear_GhillieTop_CADPAT,		*,		1000,	-1
+		MilitaryGear_GhillieSuit_CADPAT,		*,		1400,	-1
+
+	<Category> Military Gear | Tropic
+	
+		MilitaryGear_MVSVest_Tropic,                                           *,                   500,                 150
+		MilitaryGear_MVSPack_Tropic,                                           *,                   300,                 50
+		MilitaryGear_MVSMagPouch_Tropic,                                       *,                   300,                 50
+		MilitaryGear_MVSAdminPouch_Tropic,                                     *,                   300,                 50
+		MilitaryGear_MVSUtilityPouch_Tropic,                                   *,                   300,                 50
+		MilitaryGear_MVSMedicalPouch_Tropic,                                   *,                   300,                 50
+		MilitaryGear_MassRuckBag_Tropic,                                       *,                   1000,                5
+		MilitaryGear_MassBag_Tropic,                                           *,                   1000,                5
+		MilitaryGear_MassMolleBag_Tropic,                                      *,                   1000,                5
+		MilitaryGear_MassSlingBag_Tropic,                                      *,                   1000,                5
+		MilitaryGear_BoonieHat_Tropic,		*,		80,		40
+		MilitaryGear_Beanie_Tropic,			*,		80,		40
+		MilitaryGear_TacticalHelmet_Tropic,	*,		160,	80
+		MilitaryGear_Bandana_Tropic,		*,		80,		40
+		MilitaryGear_Balaclava3_Tropic,		*,		100,	50
+		MilitaryGear_Balaclava3Skull_Tropic,*,		150,	75
+		MilitaryGear_TacticalShirt_Tropic,	*,		400,	200
+		MilitaryGear_PatrolJacket_Tropic,	*,		440,	220
+		MilitaryGear_FieldJacket_Tropic,	*,		500,	250
+		MilitaryGear_CombatJacket_Tropic,	*,		500,	250
+		MilitaryGear_TacticalPants_Tropic,	*,		400,	200
+		MilitaryGear_PatrolPants_Tropic,	*,		440,	220
+		MilitaryGear_FieldPants_Tropic,		*,		500,	250
+		MilitaryGear_AssaultVest_Tropic,	*,		440,	220
+		MilitaryGear_HighCapVest_Tropic,	*,		500,	250
+		MilitaryGear_PlateCarrier_Tropic,	*,		520,	260
+		MilitaryGear_AssaultBag_Tropic,		*,		400,	200
+		MilitaryGear_TortillaBag_Tropic,	*,		440,	220
+		MilitaryGear_CoyoteBag_Tropic,		*,		440,	220
+		MilitaryGear_HuntingBag_Tropic,		*,		500,	250
+		MilitaryGear_MountainBag_Tropic,	*,		560,	280
+		MilitaryGear_AliceBag_Tropic,		*,		600,	300
+		MilitaryGear_GhillieGunWrap_Tropic,	*,		220,	-1
+		MilitaryGear_GhillieHood_Tropic,	*,		220,	-1
+		MilitaryGear_GhillieBushrag_Tropic,	*,		440,	-1
+		MilitaryGear_GhillieTop_Tropic,		*,		1000,	-1
+		MilitaryGear_GhillieSuit_Tropic,	*,		1400,	-1
 		
+	<Category> Military Gear | Yeger
+	
+		MilitaryGear_MVSVest_Yeger,                                            *,                   500,                 150
+		MilitaryGear_MVSPack_Yeger,                                            *,                   300,                 50
+		MilitaryGear_MVSMagPouch_Yeger,                                        *,                   300,                 50
+		MilitaryGear_MVSAdminPouch_Yeger,                                      *,                   300,                 50
+		MilitaryGear_MVSUtilityPouch_Yeger,                                    *,                   300,                 50
+		MilitaryGear_MVSMedicalPouch_Yeger,                                    *,                   300,                 50
+		MilitaryGear_MassRuckBag_Yeger,                                        *,                   1000,                5
+		MilitaryGear_MassBag_Yeger,                                            *,                   1000,                5
+		MilitaryGear_MassMolleBag_Yeger,                                       *,                   1000,                5
+		MilitaryGear_MassSlingBag_Yeger,                                       *,                   1000,                5
+		MilitaryGear_BoonieHat_Yeger,		*,		80,		40
+		MilitaryGear_Beanie_Yeger,			*,		80,		40
+		MilitaryGear_TacticalHelmet_Yeger,	*,		160,	80
+		MilitaryGear_Bandana_Yeger,			*,		80,		40
+		MilitaryGear_Balaclava3_Yeger,		*,		100,	50
+		MilitaryGear_Balaclava3Skull_Yeger,	*,		150,	75
+		MilitaryGear_TacticalShirt_Yeger,	*,		400,	200
+		MilitaryGear_PatrolJacket_Yeger,	*,		440,	220
+		MilitaryGear_FieldJacket_Yeger,		*,		500,	250
+		MilitaryGear_CombatJacket_Yeger,	*,		500,	250
+		MilitaryGear_TacticalPants_Yeger,	*,		400,	200
+		MilitaryGear_PatrolPants_Yeger,		*,		440,	220
+		MilitaryGear_FieldPants_Yeger,		*,		500,	250
+		MilitaryGear_AssaultVest_Yeger,		*,		440,	220
+		MilitaryGear_HighCapVest_Yeger,		*,		500,	250
+		MilitaryGear_PlateCarrier_Yeger,	*,		520,	260
+		MilitaryGear_AssaultBag_Yeger,		*,		400,	200
+		MilitaryGear_TortillaBag_Yeger,		*,		440,	220
+		MilitaryGear_CoyoteBag_Yeger,		*,		440,	220
+		MilitaryGear_HuntingBag_Yeger,		*,		500,	250
+		MilitaryGear_MountainBag_Yeger,		*,		560,	280
+		MilitaryGear_AliceBag_Yeger,		*,		600,	300
+		MilitaryGear_GhillieGunWrap_Yeger,	*,		220,	-1
+		MilitaryGear_GhillieHood_Yeger,		*,		220,	-1
+		MilitaryGear_GhillieBushrag_Yeger,	*,		440,	-1
+		MilitaryGear_GhillieTop_Yeger,		*,		1000,	-1
+		MilitaryGear_GhillieSuit_Yeger,		*,		1400,	-1
