@@ -1,4 +1,4 @@
-# Trader-Categories
+# Cl0ud Items By Camo Trader-Categories
 # (#) - Needs to be added
 ? (?) Unsure of item
 
